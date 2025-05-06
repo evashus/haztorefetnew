@@ -301,6 +301,7 @@ header {
         display: none;
         position: absolute;
         background-color: rgb(255 135 176 / 36%);
+        z-index: 9999;
     }
 
 #nav1 ul li:hover ul {
